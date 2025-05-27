@@ -16,7 +16,6 @@ chrome_bundle/
 conversations/
 agentic_env/*
 agentic_seek_env/*
-.env
 */.env
 dsk/
 
@@ -164,7 +163,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -205,3 +203,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+config.bat
